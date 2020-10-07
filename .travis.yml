@@ -12,7 +12,7 @@ script:
 
 deploy:
   provider: pages
-  repo: JDBetteridge/GenX-Exascale-Workshop
+  repo:  excalibur-genx/community-workshop 
   target-branch: gh-pages
   local-dir: html
   github_token: $GITHUB_TOKEN
